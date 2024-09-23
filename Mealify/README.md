@@ -1,2 +1,0 @@
-# Mealify
-Ristorante web app
